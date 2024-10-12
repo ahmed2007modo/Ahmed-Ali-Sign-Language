@@ -38,7 +38,6 @@
   <a href="https://github.com/sign/translate/stargazers" target="_blank">
   </a>
   <a href="https://github.com/sign/translate/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/sign/translate" alt="GitHub Forks for sign/translate" />
   </a>
   <a href="https://github.com/sign/translate/stargazers" target="_blank">
     <img src="https://img.shields.io/github/contributors/sign/translate" alt="GitHub Contributors for sign/translate" />
